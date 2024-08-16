@@ -5,3 +5,9 @@
 <script setup>
 import TestView from "@/views/TestView.vue";
 </script>
+
+<style>
+body {
+  font-family: "Poppins", sans-serif;
+}
+</style>
