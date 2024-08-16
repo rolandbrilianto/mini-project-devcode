@@ -1,3 +1,7 @@
 <template>
-  <h1 class="text-3xl font-bold underline text-center">Hello world!</h1>
+  <TestView />
 </template>
+
+<script setup>
+import TestView from "@/views/TestView.vue";
+</script>
