@@ -1,9 +1,9 @@
 <template>
-  <TestView />
+  <RouterView />
 </template>
 
 <script setup>
-import TestView from "@/views/TestView.vue";
+import { RouterView } from "vue-router";
 </script>
 
 <style>
